@@ -14,9 +14,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>MECP</groupId>
+      <groupId>com.mabeijianxi.smallvideorecord2</groupId>
       <artifactId>smallvideorecord2</artifactId>
-      <version>unspecified</version>
+      <version>1.0.0</version>
       <scope>compile</scope>
       <exclusions>
         <exclusion>
