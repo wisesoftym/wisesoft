@@ -3,7 +3,7 @@
   <groupId>im.wisesoft.com.imlib</groupId>
   <artifactId>imlib</artifactId>
   <versioning>
-    <release>1.1.1_no_jtisi</release>
+    <release>1.1.2_no_jtisi</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -18,7 +18,8 @@
       <version>1.0.9_no_jtisi</version>
       <version>1.1.0_no_jtisi</version>
       <version>1.1.1_no_jtisi</version>
+      <version>1.1.2_no_jtisi</version>
     </versions>
-    <lastUpdated>20180830023422</lastUpdated>
+    <lastUpdated>20181101090952</lastUpdated>
   </versioning>
 </metadata>
