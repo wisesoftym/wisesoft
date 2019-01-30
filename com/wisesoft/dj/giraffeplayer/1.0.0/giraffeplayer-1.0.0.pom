@@ -14,9 +14,9 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>ChuanTouDangJian</groupId>
-      <artifactId>ijkplayer-java</artifactId>
-      <version>unspecified</version>
+      <groupId>com.wisesoft.dj</groupId>
+      <artifactId>ijkplayer</artifactId>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
