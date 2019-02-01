@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.wisesoft.dj</groupId>
-  <artifactId>web_module</artifactId>
-  <version>1.0.0</version>
+  <artifactId>news_module</artifactId>
+  <version>1.0.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -17,6 +17,12 @@
       <groupId>com.spinytech.ma</groupId>
       <artifactId>macore</artifactId>
       <version>0.2.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.support</groupId>
+      <artifactId>design</artifactId>
+      <version>27.1.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>

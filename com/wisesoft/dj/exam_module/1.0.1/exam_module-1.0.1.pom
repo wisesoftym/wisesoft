@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.wisesoft.dj</groupId>
-  <artifactId>web_module</artifactId>
-  <version>1.0.0</version>
+  <artifactId>exam_module</artifactId>
+  <version>1.0.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
