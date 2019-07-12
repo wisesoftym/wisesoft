@@ -52,7 +52,7 @@
     <dependency>
       <groupId>com.wisesoft.dj</groupId>
       <artifactId>resourse_library</artifactId>
-      <version>1.1.+</version>
+      <version>1.1.4</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
