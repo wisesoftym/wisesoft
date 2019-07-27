@@ -3,7 +3,7 @@
   <groupId>im.wisesoft.com.imlib</groupId>
   <artifactId>imlib</artifactId>
   <versioning>
-    <release>1.2.3_oa</release>
+    <release>1.2.4_oa</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -53,7 +53,8 @@
       <version>1.2.1_oa</version>
       <version>1.2.2_oa</version>
       <version>1.2.3_oa</version>
+      <version>1.2.4_oa</version>
     </versions>
-    <lastUpdated>20190724031106</lastUpdated>
+    <lastUpdated>20190727155634</lastUpdated>
   </versioning>
 </metadata>
