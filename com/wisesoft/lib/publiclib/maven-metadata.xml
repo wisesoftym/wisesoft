@@ -3,7 +3,7 @@
   <groupId>com.wisesoft.lib</groupId>
   <artifactId>publiclib</artifactId>
   <versioning>
-    <release>1.0.9</release>
+    <release>1.0.8</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -16,6 +16,6 @@
       <version>1.0.8</version>
       <version>1.0.9</version>
     </versions>
-    <lastUpdated>20200228042303</lastUpdated>
+    <lastUpdated>20200228054201</lastUpdated>
   </versioning>
 </metadata>
