@@ -8,9 +8,9 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
-      <groupId>MECP</groupId>
+      <groupId>com.wisesoft.lib</groupId>
       <artifactId>publiclib</artifactId>
-      <version>unspecified</version>
+      <version>1.+</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
